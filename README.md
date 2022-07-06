@@ -4,7 +4,7 @@ _Easy installing and managing for small tweaks_
 
 ## How to install TweaksManager 🚀
 
-Go to [releases](https://github.com/cucumber-sp/TweaksManager/releases) and download `TweaksManager.dll`. Once download, put `TweaksManager.dll` into `Spaceflight Simulator_Data/MODS` folder. You can found `Spaceflight Simulator_Data` in folder where you install steam in the next path: `Steam\steamapps\common\Spaceflight Simulator\Spaceflight Simulator Game\Spaceflight Simulator_Data`. You can put tweaks files to `MODS/TweaksManager/Tweaks` folder.
+Go to [releases](https://github.com/cucumber-sp/TweaksManager/releases) and download `TweaksManager.dll`. Once download, put `TweaksManager.dll` into `Spaceflight Simulator_Data/MODS` folder. You can found `Spaceflight Simulator_Data` in folder where you install steam in the next path: `Steam\steamapps\common\Spaceflight Simulator\Spaceflight Simulator Game\Spaceflight Simulator_Data`. Download `Dependencies.zip`, unpack it and move dlls to `Managed` folder. You can put tweaks files to `MODS/TweaksManager/Tweaks` folder.
 
 ### List of available tweaks
 
