@@ -8,7 +8,7 @@ Go to [releases](https://github.com/cucumber-sp/TweaksManager/releases) and down
 
 ### List of available tweaks
 
-1. [All Textures In Skin Menu](/Tweaks/AllTexturesInSkinMenu.cs)
-2. [Custom Part Movement Grid](/Tweaks/CustomPartMovementGrid.cs)
+1. [All Textures In Skin Menu](https://raw.githubusercontent.com/cucumber-sp/TweaksManager/master/Tweaks/AllTexturesInSkinMenu.cs)
+2. [Custom Part Movement Grid](https://raw.githubusercontent.com/cucumber-sp/TweaksManager/master/Tweaks/CustomPartMovementGrid.cs)
 
 If you want to add your tweak to the list, write to me in discord. This list will be updated with the release of new tweaks.
