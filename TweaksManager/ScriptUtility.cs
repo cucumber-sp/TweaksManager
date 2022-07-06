@@ -37,7 +37,8 @@ namespace TweaksManager
             StringBuilder sourceCode = new StringBuilder(string.Join(System.Environment.NewLine, codeFragments));
             sourceCode.AppendLine(Environment.NewLine);
             foreach (string className in classNames)
-                sourceCode.AppendLine($"{className}.Load();");
+                sourceCode.AppendLine(className != "" ? $"{className}.Load();" : "");
+            //Debug.Log(System.Environment.NewLine + sourceCode + Environment.NewLine);
             Script<object> script = CSharpScript.Create(sourceCode.ToString(),
                 ScriptOptions.Default
                     .WithReferences(AppDomain.CurrentDomain.GetAssemblies().Where(x => x.Location != ""))
